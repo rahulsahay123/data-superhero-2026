@@ -157,8 +157,8 @@ Spoke at Snowflake BUILD – Bangalore. This was a key milestone for me, as BUIL
 <table>
   <tr>
     <td>
-      <a href="assets/events/8.1_SnowflakeBuild_Bangalore_Speaker.jpg">
-        <img src="assets/events/8.1_SnowflakeBuild_Bangalore_Speaker.jpg" width="160">
+      <a href="assets/events/8.1_SnowflakeBuild_Bangalore_Speaker.JPG">
+        <img src="assets/events/8.1_SnowflakeBuild_Bangalore_Speaker.JPG" width="160">
       </a>
     </td>
     <td>
