@@ -1,6 +1,8 @@
 [Home](./) | [Mindset](mindset) | [Community](community) | [Speaking](speaking-events) | [Certifications](certifications) | [Content](content) | [Projects](projects)
 
----
+<img src="assets/images/profile.jpg" alt="Rahul Sahay" width="150" />
+
+&nbsp;
 
 # Rahul Sahay — Snowflake Data Superhero 2026
 
