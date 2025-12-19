@@ -68,10 +68,10 @@ These learning artifacts reflect practical exploration of:
 Since LangChain does not host public learning profiles, I have uploaded the artifacts here for transparency:
 
 - **Quickstart: LangChain Essentials – Python**  
-  `assets/learning/langchain/Quickstart LangChain Essentials - Python.pdf`
+  [View PDF](assets/learning/langchain/Quickstart%20LangChain%20Essentials%20-%20Python.pdf)
 
 - **Foundation: Introduction to Agent Observability & Evaluations**  
-  `assets/learning/langchain/Introduction to Agent Observability & Evaluations.pdf`
+  [View PDF](assets/learning/langchain/Introduction%20to%20Agent%20Observability%20%26%20Evaluations.pdf)
 
 The learning from these programs is reflected in my practical demos, GitHub content, and speaking sessions rather than treated as standalone credentials.
 
@@ -82,5 +82,3 @@ The learning from these programs is reflected in my practical demos, GitHub cont
 The Data Superhero mindset values **curiosity, responsibility, and continuous learning**. For me, learning is meaningful only when it translates into better design decisions, clearer enablement, and stronger foundations for others.
 
 Across Snowflake, governance platforms, and emerging AI ecosystems, my goal is to keep learning grounded, applied, and shared — so that data and AI solutions remain trustworthy, scalable, and useful in the real world.
-
-
