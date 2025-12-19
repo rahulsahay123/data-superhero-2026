@@ -1,4 +1,4 @@
-[Home](./) | [Mindset](mindset) | [Community](community) | [Speaking](speaking-events) | [Certifications](certifications) | [Content](content) | [Projects](projects)
+[Home](./) | [Mindset](mindset) | [Community](community) | [Speaking](speaking-events) | [Certifications](certifications) | [Content](content) 
 
 ---
 
@@ -21,7 +21,6 @@ I try to show up like a Data Superhero — doing the responsible work that impro
 - ✅ **[Speaking](speaking-events)** — enablement through sessions, meetups, events  
 - ✅ **[Certifications](certifications)** — continuous learning (Snowflake + Alation + LangChain)  
 - ✅ **[Content](content)** — Medium writing + what I share back  
-- ✅ **[Projects](projects)** — demos and practical builds people can reuse  
 
 ---
 
