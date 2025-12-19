@@ -1,5 +1,4 @@
-[Home](./) | [Mindset](mindset) | [Community](community) | [Speaking](speaking-events) | [Certifications](certifications) | [Content](content) | [Projects](projects)
-
+[Home](./) | [Mindset](mindset) | [Community](community) | [Speaking](speaking-events) | [Certifications](certifications) | [Content](content) 
 ## Writing, shared artifacts & knowledge reuse (Medium, LinkedIn, GitHub)
 
 Over the last year, my primary focus has been on **Snowflake community building, events, and enablement**, rather than long-form writing. Because of this, I have only recently started writing more actively on Medium.
