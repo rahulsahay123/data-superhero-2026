@@ -16,10 +16,10 @@ I try to show up like a Data Superhero — doing the responsible work that impro
 ---
 
 ## Reviewer shortcut (start here)
-- ✅ **[Mindset](mindset)** — how I practise stewardship, enablement, long-term thinking  
+- ✅ **[Mindset](mindset)** — How I practise stewardship, enablement, long-term thinking  
 - ✅ **[Community](community)** — Snowflake + Alation + practitioner communities  
-- ✅ **[Speaking](speaking-events)** — enablement through sessions, meetups, events  
-- ✅ **[Certifications](certifications)** — continuous learning (Snowflake + Alation + applied learning)  
+- ✅ **[Speaking](speaking-events)** — Enablement through sessions, meetups, events  
+- ✅ **[Certifications](certifications)** — Continuous learning (Snowflake + Alation + applied learning)  
 - ✅ **[Content](content)** — Medium writing, GitHub artifacts, and knowledge sharing  
 
 ---
@@ -52,10 +52,11 @@ This site is structured like a simple Snowflake-style “docs trail”:
 ---
 
 ## Public links (additional verification)
+- Snowflake Achieve wallet: https://achieve.snowflake.com/profile/rahulsahay123/wallet
+- Credly / Alation badges: https://www.credly.com/users/rahul-sahay.129806dc/badges#credly
+- GitHub (Snowflake BUILD demos/wiki): https://github.com/rahulsahay123/snowflake-build-2025/wiki
 - Medium: https://medium.com/@rahulsahay123  
-- GitHub (Snowflake BUILD demos/wiki): https://github.com/rahulsahay123/snowflake-build-2025/wiki  
-- Snowflake Achieve wallet: https://achieve.snowflake.com/profile/rahulsahay123/wallet  
-- Credly / Alation badges: https://www.credly.com/users/rahul-sahay.129806dc/badges#credly  
+  
 
 <small>
 Note: Some event photos and applied learning artifacts are not publicly hosted yet. They are being consolidated and will be added to the relevant sections of this site.
